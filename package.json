@@ -1,5 +1,5 @@
 {
-  "name": "whitesource",
+  
   "version": "18.10.1",
   "description": "Whitesource Node Module",
   "preferGlobal": true,
