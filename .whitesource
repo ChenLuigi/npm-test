@@ -1,5 +1,15 @@
 {
   "scanSettings": {
-      "configMode": "LOCAL"
-    }
+    "configMode": "LOCAL",
+    "configExternalURL": "",
+    "projectToken" : ""
+  },
+  "checkRunSettings": {
+    "vulnerableCheckRunConclusionLevel": "failure"
+  },
+  
+  "issueSettings": {
+    "minSeverityLevel": "LOW"
+  }
+  
 }
