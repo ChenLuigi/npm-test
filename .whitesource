@@ -1,5 +1,4 @@
 {
-  "settingsInheritedFrom": "whitesource/whitesource-config@main",
   "scanSettings": {
       "configMode": "LOCAL"
     }
